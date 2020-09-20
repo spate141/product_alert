@@ -5,4 +5,6 @@ So, I want to get that Playstation 5 but can't see any other way I can continuou
 
 - Change the `config.ini` file to modify the email configuration.
 - Change the `products_urls.json` file to modify websites data.
-- Run: `python alert.py` to start the script.
+- Run: 
+    - `python local_alert.py` to start the script on local computer.
+    - `python lambda_alert.py` ~~start the script on lambda instance.~~ _(Not ready yet!)_
