@@ -1,0 +1,27 @@
+[
+  {
+    "website": "Walmart",
+    "url": "https://www.walmart.com/ip/PlayStation5-Console/363472942",
+    "look_for": ["Add to cart"]
+  },
+  {
+    "website": "Target",
+    "url": "https://www.target.com/p/playstation-5-console/-/A-81114595",
+    "look_for": ["Pick it up", "Ship it"]
+  },
+  {
+    "website": "Best Buy",
+    "url": "https://www.bestbuy.com/site/sony-playstation-5-console/6426149.p?skuId=6426149",
+    "look_for": ["Add to Cart"]
+  },
+  {
+    "website": "Gamestop",
+    "url": "https://www.gamestop.com/video-games/playstation-5/consoles/products/playstation-5/11108140.html",
+    "look_for": ["Add to Cart"]
+  },
+  {
+    "website": "Amazon",
+    "url": "https://www.amazon.com/gp/product/B08FC5L3RG",
+    "look_for": ["Add to Cart"]
+  }
+]
